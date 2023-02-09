@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chown -hR betty:alxschool .
+=======
+chown vincet:staff *
+>>>>>>> a7c457e115bd7084a4e7f7bd494d760c51eb6f2c
